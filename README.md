@@ -1,7 +1,7 @@
 # DeFa Farming
 
 [![Actions Status](https://github.com/defaswap/defa-farm/workflows/CI/badge.svg)](https://github.com/defaswap/defa-farm/actions)
-<!-- [![codecov](https://codecov.io/gh/defaswap/defa-farm/branch/master/graph/badge.svg?token=5XMLP74IR0)](https://codecov.io/gh/defaswap/defa-farm) -->
+[![codecov](https://codecov.io/gh/defaswap/defa-farm/branch/main/graph/badge.svg?token=8067K78CP5)](https://codecov.io/gh/defaswap/defa-farm)
 
 https://defa.finance. Feel free to read the code.
 
